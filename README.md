@@ -5,11 +5,10 @@ WHATSAPP BOT BY DZ
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dafatrizaa/Dzz)
 ```
 Buildpack Heroku
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
-
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
